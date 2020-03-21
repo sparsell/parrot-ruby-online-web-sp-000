@@ -6,5 +6,5 @@ def parrot(message="Squawk!")
 
 end
 
-parrot()
+parrot(message)
 parrot("Polly want a cracker")
