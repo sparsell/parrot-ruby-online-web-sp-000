@@ -2,10 +2,7 @@
 # returns the phrase
 
 def parrot(message="Squawk!")
-  message
-
+  puts message
+  return message
 end
 
-parrot()
-
-parrot("Polly want a cracker")
