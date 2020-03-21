@@ -5,3 +5,5 @@ def parrot(message="Squawk!")
   message
 
 end
+
+parrot("Polly want a cracker")
